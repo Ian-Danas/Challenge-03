@@ -9,6 +9,7 @@ N/A
 
 ## Usage
 To use this website start by clicking on the generate password button. Several prompts will popup asking if you would like uppercase, lowercase, numbers, or special characters. If you would like those included in your password select confirm on those prompts. If no options are selected an alert will popup saying that you must select at least one those and the process will need to be restarted. After all critera prompts are choosen it will ask how many characters you would like. You must enter a number between 8 and 128 inclusive. If the incorrect number of characters or an input that is not a character is entered you will be prompted to restart the process. When all criteria and length requirements are met your generated password will be generated in the box above the generate password button. 
+![Alt text](./Assets/WebsiteScreenShot.png "website screenshot")
 
 ## Credits
 N/A
